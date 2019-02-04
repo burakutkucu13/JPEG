@@ -1,0 +1,36 @@
+c:\users\burak\documents\visual studio 2013\Projects\TEZ_DENEME1\TEZ_DENEME1\bin\Debug\TEZ_DENEME1.exe.config
+c:\users\burak\documents\visual studio 2013\Projects\TEZ_DENEME1\TEZ_DENEME1\bin\Debug\TEZ_DENEME1.exe
+c:\users\burak\documents\visual studio 2013\Projects\TEZ_DENEME1\TEZ_DENEME1\bin\Debug\TEZ_DENEME1.pdb
+c:\users\burak\documents\visual studio 2013\Projects\TEZ_DENEME1\TEZ_DENEME1\obj\Debug\TEZ_DENEME1.csprojResolveAssemblyReference.cache
+c:\users\burak\documents\visual studio 2013\Projects\TEZ_DENEME1\TEZ_DENEME1\obj\Debug\TEZ_DENEME1.Form1.resources
+c:\users\burak\documents\visual studio 2013\Projects\TEZ_DENEME1\TEZ_DENEME1\obj\Debug\TEZ_DENEME1.Properties.Resources.resources
+c:\users\burak\documents\visual studio 2013\Projects\TEZ_DENEME1\TEZ_DENEME1\obj\Debug\TEZ_DENEME1.csproj.GenerateResource.Cache
+c:\users\burak\documents\visual studio 2013\Projects\TEZ_DENEME1\TEZ_DENEME1\obj\Debug\TEZ_DENEME1.exe
+c:\users\burak\documents\visual studio 2013\Projects\TEZ_DENEME1\TEZ_DENEME1\obj\Debug\TEZ_DENEME1.pdb
+D:\4.sınıf\2.Dönem\Bitirme_Tezi\Markers\24.03....11.55\TEZ_DENEME1\TEZ_DENEME1\bin\Debug\TEZ_DENEME1.exe.config
+D:\4.sınıf\2.Dönem\Bitirme_Tezi\Markers\24.03....11.55\TEZ_DENEME1\TEZ_DENEME1\obj\Debug\TEZ_DENEME1.exe
+D:\4.sınıf\2.Dönem\Bitirme_Tezi\Markers\24.03....11.55\TEZ_DENEME1\TEZ_DENEME1\obj\Debug\TEZ_DENEME1.pdb
+D:\4.sınıf\2.Dönem\Bitirme_Tezi\Markers\24.03....11.55\TEZ_DENEME1\TEZ_DENEME1\obj\Debug\TEZ_DENEME1.csprojResolveAssemblyReference.cache
+D:\4.sınıf\2.Dönem\Bitirme_Tezi\Markers\24.03....11.55\TEZ_DENEME1\TEZ_DENEME1\obj\Debug\TEZ_DENEME1.Form1.resources
+D:\4.sınıf\2.Dönem\Bitirme_Tezi\Markers\24.03....11.55\TEZ_DENEME1\TEZ_DENEME1\obj\Debug\TEZ_DENEME1.Properties.Resources.resources
+D:\4.sınıf\2.Dönem\Bitirme_Tezi\Markers\24.03....11.55\TEZ_DENEME1\TEZ_DENEME1\obj\Debug\TEZ_DENEME1.csproj.GenerateResource.Cache
+D:\4.sınıf\2.Dönem\Bitirme_Tezi\Markers\24.03....11.55\TEZ_DENEME1\TEZ_DENEME1\bin\Debug\TEZ_DENEME1.exe
+D:\4.sınıf\2.Dönem\Bitirme_Tezi\Markers\24.03....11.55\TEZ_DENEME1\TEZ_DENEME1\bin\Debug\TEZ_DENEME1.pdb
+D:\4.sınıf\2.Dönem\Bitirme_Tezi\Markers\04.05....00.09\TEZ_DENEME1\TEZ_DENEME1\bin\Debug\TEZ_DENEME1.exe.config
+D:\4.sınıf\2.Dönem\Bitirme_Tezi\Markers\04.05....00.09\TEZ_DENEME1\TEZ_DENEME1\obj\Debug\TEZ_DENEME1.exe
+D:\4.sınıf\2.Dönem\Bitirme_Tezi\Markers\04.05....00.09\TEZ_DENEME1\TEZ_DENEME1\obj\Debug\TEZ_DENEME1.pdb
+D:\4.sınıf\2.Dönem\Bitirme_Tezi\Markers\04.05....00.09\TEZ_DENEME1\TEZ_DENEME1\bin\Debug\TEZ_DENEME1.exe
+D:\4.sınıf\2.Dönem\Bitirme_Tezi\Markers\04.05....00.09\TEZ_DENEME1\TEZ_DENEME1\bin\Debug\TEZ_DENEME1.pdb
+D:\4.sınıf\2.Dönem\Bitirme_Tezi\Markers\04.05....00.09\TEZ_DENEME1\TEZ_DENEME1\obj\Debug\TEZ_DENEME1.csprojResolveAssemblyReference.cache
+D:\4.sınıf\2.Dönem\Bitirme_Tezi\Markers\04.05....00.09\TEZ_DENEME1\TEZ_DENEME1\obj\Debug\TEZ_DENEME1.Form1.resources
+D:\4.sınıf\2.Dönem\Bitirme_Tezi\Markers\04.05....00.09\TEZ_DENEME1\TEZ_DENEME1\obj\Debug\TEZ_DENEME1.Properties.Resources.resources
+D:\4.sınıf\2.Dönem\Bitirme_Tezi\Markers\04.05....00.09\TEZ_DENEME1\TEZ_DENEME1\obj\Debug\TEZ_DENEME1.csproj.GenerateResource.Cache
+D:\4.sınıf\2.Dönem\Bitirme_Tezi\Markers\21.05....21.49 - Copy\TEZ_DENEME1\TEZ_DENEME1\bin\Debug\TEZ_DENEME1.exe.config
+D:\4.sınıf\2.Dönem\Bitirme_Tezi\Markers\21.05....21.49 - Copy\TEZ_DENEME1\TEZ_DENEME1\obj\Debug\TEZ_DENEME1.exe
+D:\4.sınıf\2.Dönem\Bitirme_Tezi\Markers\21.05....21.49 - Copy\TEZ_DENEME1\TEZ_DENEME1\obj\Debug\TEZ_DENEME1.pdb
+D:\4.sınıf\2.Dönem\Bitirme_Tezi\Markers\21.05....21.49 - Copy\TEZ_DENEME1\TEZ_DENEME1\obj\Debug\TEZ_DENEME1.csprojResolveAssemblyReference.cache
+D:\4.sınıf\2.Dönem\Bitirme_Tezi\Markers\21.05....21.49 - Copy\TEZ_DENEME1\TEZ_DENEME1\obj\Debug\TEZ_DENEME1.Form1.resources
+D:\4.sınıf\2.Dönem\Bitirme_Tezi\Markers\21.05....21.49 - Copy\TEZ_DENEME1\TEZ_DENEME1\obj\Debug\TEZ_DENEME1.Properties.Resources.resources
+D:\4.sınıf\2.Dönem\Bitirme_Tezi\Markers\21.05....21.49 - Copy\TEZ_DENEME1\TEZ_DENEME1\obj\Debug\TEZ_DENEME1.csproj.GenerateResource.Cache
+D:\4.sınıf\2.Dönem\Bitirme_Tezi\Markers\21.05....21.49 - Copy\TEZ_DENEME1\TEZ_DENEME1\bin\Debug\TEZ_DENEME1.exe
+D:\4.sınıf\2.Dönem\Bitirme_Tezi\Markers\21.05....21.49 - Copy\TEZ_DENEME1\TEZ_DENEME1\bin\Debug\TEZ_DENEME1.pdb
